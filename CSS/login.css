@@ -1,0 +1,17 @@
+body {
+  background-color: #fce3d1;
+}
+.formLogin {
+  display: flex;
+  width: 590px;
+  border-radius: 4px;
+  border-color: gray;
+  background-color: #ffffff;
+}
+.isian {
+  border-color: gray;
+  background-color: #ffffff;
+}
+.tombolMasuk {
+  background-color: #3ecf4c;
+}
